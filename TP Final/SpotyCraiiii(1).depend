@@ -1,0 +1,956 @@
+# depslib dependency file v1.0
+1574001677 source:h:\projects\c project\spotycraiiii\main.c
+	"menu.h"
+
+1573952558 h:\projects\c project\spotycraiiii\menu.h
+	"ADL.h"
+
+1574001793 source:h:\projects\c project\spotycraiiii\menu.c
+	"menu.h"
+
+1572142649 h:\projects\c project\spotycraiiii\main.c
+	"menu.h"
+
+1573954674 source:h:\projects\c project\spotycraiiii\archivo.c
+	"archivo.h"
+
+1573954714 h:\projects\c project\spotycraiiii\archivo.h
+	<stdio.h>
+
+1574001638 source:h:\projects\c project\spotycraiiii\adl.c
+	"ADL.h"
+
+1574001302 h:\projects\c project\spotycraiiii\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1573946052 source:h:\projects\c project\spotycraiiii\lista.c
+	"Lista.h"
+
+1573840830 h:\projects\c project\spotycraiiii\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1572458580 source:c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\adl.c
+	"ADL.h"
+
+1572458141 c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+
+1572445088 c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\archivo.h
+	<stdio.h>
+
+1572383368 source:c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\lista.c
+	"Lista.h"
+
+1572383368 c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\lista.h
+	"archivo.h"
+	<stdlib.h>
+	<string.h>
+
+1572383368 source:c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\main.c
+	"menu.h"
+
+1572383368 c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\menu.h
+	"ADL.h"
+	"archivo.h"
+
+1572445088 source:c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\archivo.c
+	"archivo.h"
+
+1572458345 source:c:\users\grande\desktop\spotycraiiii-20191030t141325z-001\spotycraiiii\menu.c
+	"menu.h"
+
+1572569068 source:c:\users\usuario\desktop\spotycraiiii\adl.c
+	"ADL.h"
+
+1572568674 c:\users\usuario\desktop\spotycraiiii\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+
+1572445142 c:\users\usuario\desktop\spotycraiiii\archivo.h
+	<stdio.h>
+
+1572445140 source:c:\users\usuario\desktop\spotycraiiii\archivo.c
+	"archivo.h"
+
+1572445142 source:c:\users\usuario\desktop\spotycraiiii\lista.c
+	"Lista.h"
+
+1572445144 c:\users\usuario\desktop\spotycraiiii\lista.h
+	"archivo.h"
+	<stdlib.h>
+	<string.h>
+
+1572445146 source:c:\users\usuario\desktop\spotycraiiii\main.c
+	"menu.h"
+
+1572566768 c:\users\usuario\desktop\spotycraiiii\menu.h
+	"ADL.h"
+	"archivo.h"
+
+1572568919 source:c:\users\usuario\desktop\spotycraiiii\menu.c
+	"menu.h"
+
+1573857136 source:f:\spotycraiiii\adl.c
+	"ADL.h"
+
+1573250906 f:\spotycraiiii\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+
+1573856242 f:\spotycraiiii\archivo.h
+	<stdio.h>
+
+1572445140 source:f:\spotycraiiii\archivo.c
+	"archivo.h"
+
+1573856932 source:f:\spotycraiiii\lista.c
+	"Lista.h"
+
+1573856552 f:\spotycraiiii\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1573250898 source:f:\spotycraiiii\main.c
+	"menu.h"
+
+1573858602 f:\spotycraiiii\menu.h
+	"ADL.h"
+	"archivo.h"
+	"arbol.h"
+
+1573164026 source:f:\spotycraiiii\menu.c
+	"menu.h"
+
+1573857488 f:\spotycraiiii\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1573858016 source:f:\spotycraiiii\arbol.c
+	"arbol.h"
+
+1574000396 source:h:\projects\c project\spotycraiiii\arbol.c
+	"arbol.h"
+
+1574003136 h:\projects\c project\spotycraiiii\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574001638 source:h:\projects\c project\spotycraiiii-actual\adl.c
+	"ADL.h"
+
+1574001302 h:\projects\c project\spotycraiiii-actual\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574108892 h:\projects\c project\spotycraiiii-actual\archivo.h
+	<stdio.h>
+
+1574115741 h:\projects\c project\spotycraiiii-actual\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1573840830 h:\projects\c project\spotycraiiii-actual\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1573954674 source:h:\projects\c project\spotycraiiii-actual\archivo.c
+	"archivo.h"
+
+1573946052 source:h:\projects\c project\spotycraiiii-actual\lista.c
+	"Lista.h"
+
+1574001677 source:h:\projects\c project\spotycraiiii-actual\main.c
+	"menu.h"
+
+1574126679 h:\projects\c project\spotycraiiii-actual\menu.h
+	"ADL.h"
+
+1574125396 source:h:\projects\c project\spotycraiiii-actual\menu.c
+	"menu.h"
+
+1574121781 source:h:\projects\c project\spotycraiiii-actual\arbol.c
+	"arbol.h"
+
+1574277046 source:c:\users\grande\desktop\spotycraiiii-actual\adl.c
+	"ADL.h"
+
+1574269065 c:\users\grande\desktop\spotycraiiii-actual\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574269065 c:\users\grande\desktop\spotycraiiii-actual\archivo.h
+	<stdio.h>
+
+1574258726 c:\users\grande\desktop\spotycraiiii-actual\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574269335 c:\users\grande\desktop\spotycraiiii-actual\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574269065 source:c:\users\grande\desktop\spotycraiiii-actual\arbol.c
+	"arbol.h"
+
+1574269138 source:c:\users\grande\desktop\spotycraiiii-actual\archivo.c
+	"archivo.h"
+
+1574262938 source:c:\users\grande\desktop\spotycraiiii-actual\lista.c
+	"Lista.h"
+
+1574186224 source:c:\users\grande\desktop\spotycraiiii-actual\main.c
+	"menu.h"
+
+1574216442 c:\users\grande\desktop\spotycraiiii-actual\menu.h
+	"ADL.h"
+
+1574274667 source:c:\users\grande\desktop\spotycraiiii-actual\menu.c
+	"menu.h"
+
+1574259242 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\adl.c
+	"ADL.h"
+
+1574259244 c:\users\joaquin\downloads\spotycraiiii-ultimo\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574286114 c:\users\joaquin\downloads\spotycraiiii-ultimo\archivo.h
+	<stdio.h>
+
+1574259244 c:\users\joaquin\downloads\spotycraiiii-ultimo\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574286300 c:\users\joaquin\downloads\spotycraiiii-ultimo\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574259244 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\arbol.c
+	"arbol.h"
+
+1574286112 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\archivo.c
+	"archivo.h"
+
+1574259244 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\lista.c
+	"Lista.h"
+
+1574259244 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\main.c
+	"menu.h"
+
+1574284780 c:\users\joaquin\downloads\spotycraiiii-ultimo\menu.h
+	"ADL.h"
+
+1574286428 source:c:\users\joaquin\downloads\spotycraiiii-ultimo\menu.c
+	"menu.h"
+
+1574267322 source:c:\users\grande\desktop\spotycraiiii-\adl.c
+	"ADL.h"
+
+1574267324 c:\users\grande\desktop\spotycraiiii-\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574267324 c:\users\grande\desktop\spotycraiiii-\archivo.h
+	<stdio.h>
+
+1574267324 c:\users\grande\desktop\spotycraiiii-\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574267322 c:\users\grande\desktop\spotycraiiii-\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574267324 source:c:\users\grande\desktop\spotycraiiii-\arbol.c
+	"arbol.h"
+
+1574267324 source:c:\users\grande\desktop\spotycraiiii-\archivo.c
+	"archivo.h"
+
+1574267324 source:c:\users\grande\desktop\spotycraiiii-\lista.c
+	"Lista.h"
+
+1574267324 source:c:\users\grande\desktop\spotycraiiii-\main.c
+	"menu.h"
+
+1574286783 c:\users\grande\desktop\spotycraiiii-\menu.h
+	"ADL.h"
+
+1574286783 source:c:\users\grande\desktop\spotycraiiii-\menu.c
+	"menu.h"
+
+1574297538 source:f:\spotycraiiii-\adl.c
+	"ADL.h"
+
+1574296240 f:\spotycraiiii-\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574293672 f:\spotycraiiii-\archivo.h
+	<stdio.h>
+
+1574295330 f:\spotycraiiii-\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574294240 f:\spotycraiiii-\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574295462 source:f:\spotycraiiii-\arbol.c
+	"arbol.h"
+
+1574293828 source:f:\spotycraiiii-\archivo.c
+	"archivo.h"
+
+1574294938 source:f:\spotycraiiii-\lista.c
+	"Lista.h"
+
+1574267324 source:f:\spotycraiiii-\main.c
+	"menu.h"
+
+1574287844 f:\spotycraiiii-\menu.h
+	"ADL.h"
+
+1574297242 source:f:\spotycraiiii-\menu.c
+	"menu.h"
+
+1574303400 source:i:\spotycraiiii-final\adl.c
+	"ADL.h"
+
+1574303122 i:\spotycraiiii-final\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574293672 i:\spotycraiiii-final\archivo.h
+	<stdio.h>
+
+1574295330 i:\spotycraiiii-final\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574305922 i:\spotycraiiii-final\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574305382 source:i:\spotycraiiii-final\arbol.c
+	"arbol.h"
+
+1574293828 source:i:\spotycraiiii-final\archivo.c
+	"archivo.h"
+
+1574307838 source:i:\spotycraiiii-final\lista.c
+	"Lista.h"
+
+1574267324 source:i:\spotycraiiii-final\main.c
+	"menu.h"
+
+1574287844 i:\spotycraiiii-final\menu.h
+	"ADL.h"
+
+1574308130 source:i:\spotycraiiii-final\menu.c
+	"menu.h"
+
+1574363229 source:c:\users\grande\desktop\spotycraiiii-final\adl.c
+	"ADL.h"
+
+1574362903 c:\users\grande\desktop\spotycraiiii-final\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574360380 c:\users\grande\desktop\spotycraiiii-final\archivo.h
+	<stdio.h>
+
+1574338160 c:\users\grande\desktop\spotycraiiii-final\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574337934 c:\users\grande\desktop\spotycraiiii-final\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574347187 source:c:\users\grande\desktop\spotycraiiii-final\arbol.c
+	"arbol.h"
+
+1574361837 source:c:\users\grande\desktop\spotycraiiii-final\archivo.c
+	"archivo.h"
+
+1574345300 source:c:\users\grande\desktop\spotycraiiii-final\main.c
+	"menu.h"
+
+1574287844 c:\users\grande\desktop\spotycraiiii-final\menu.h
+	"ADL.h"
+
+1574360600 source:c:\users\grande\desktop\spotycraiiii-final\lista.c
+	"Lista.h"
+
+1574363278 source:c:\users\grande\desktop\spotycraiiii-final\menu.c
+	"menu.h"
+
+1574367172 source:c:\users\joaquin\downloads\spotycraiiii-jueves\adl.c
+	"ADL.h"
+
+1574345912 c:\users\joaquin\downloads\spotycraiiii-jueves\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574345912 c:\users\joaquin\downloads\spotycraiiii-jueves\archivo.h
+	<stdio.h>
+
+1574345912 c:\users\joaquin\downloads\spotycraiiii-jueves\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574345914 c:\users\joaquin\downloads\spotycraiiii-jueves\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574345912 source:c:\users\joaquin\downloads\spotycraiiii-jueves\arbol.c
+	"arbol.h"
+
+1574345912 source:c:\users\joaquin\downloads\spotycraiiii-jueves\lista.c
+	"Lista.h"
+
+1574345916 source:c:\users\joaquin\downloads\spotycraiiii-jueves\main.c
+	"menu.h"
+
+1574345916 c:\users\joaquin\downloads\spotycraiiii-jueves\menu.h
+	"ADL.h"
+
+1574367183 source:c:\users\joaquin\downloads\spotycraiiii-jueves\menu.c
+	"menu.h"
+
+1574367009 source:c:\users\joaquin\downloads\spotycraiiii-jueves\archivo.c
+	"archivo.h"
+
+1574375681 source:f:\spotycraiiii-jueves\adl.c
+	"ADL.h"
+
+1574374875 f:\spotycraiiii-jueves\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574345912 f:\spotycraiiii-jueves\archivo.h
+	<stdio.h>
+
+1574345912 f:\spotycraiiii-jueves\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574345914 f:\spotycraiiii-jueves\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574380489 source:f:\spotycraiiii-jueves\arbol.c
+	"arbol.h"
+
+1574370705 source:f:\spotycraiiii-jueves\archivo.c
+	"archivo.h"
+
+1574345912 source:f:\spotycraiiii-jueves\lista.c
+	"Lista.h"
+
+1574345916 source:f:\spotycraiiii-jueves\main.c
+	"menu.h"
+
+1574345916 f:\spotycraiiii-jueves\menu.h
+	"ADL.h"
+
+1574379643 source:f:\spotycraiiii-jueves\menu.c
+	"menu.h"
+
+1574375682 source:i:\spotycraiiii-jueves\adl.c
+	"ADL.h"
+
+1574374876 i:\spotycraiiii-jueves\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574345912 i:\spotycraiiii-jueves\archivo.h
+	<stdio.h>
+
+1574345912 i:\spotycraiiii-jueves\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574345914 i:\spotycraiiii-jueves\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574381558 source:i:\spotycraiiii-jueves\arbol.c
+	"arbol.h"
+
+1574370706 source:i:\spotycraiiii-jueves\archivo.c
+	"archivo.h"
+
+1574345912 source:i:\spotycraiiii-jueves\lista.c
+	"Lista.h"
+
+1574345916 source:i:\spotycraiiii-jueves\main.c
+	"menu.h"
+
+1574345916 i:\spotycraiiii-jueves\menu.h
+	"ADL.h"
+
+1574382314 source:i:\spotycraiiii-jueves\menu.c
+	"menu.h"
+
+1574519547 source:c:\users\grande\desktop\spotycraiiii-jueves\adl.c
+	"ADL.h"
+
+1574374876 c:\users\grande\desktop\spotycraiiii-jueves\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+
+1574345912 c:\users\grande\desktop\spotycraiiii-jueves\archivo.h
+	<stdio.h>
+
+1574523218 c:\users\grande\desktop\spotycraiiii-jueves\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574345914 c:\users\grande\desktop\spotycraiiii-jueves\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574523662 source:c:\users\grande\desktop\spotycraiiii-jueves\arbol.c
+	"arbol.h"
+
+1574370706 source:c:\users\grande\desktop\spotycraiiii-jueves\archivo.c
+	"archivo.h"
+
+1574345912 source:c:\users\grande\desktop\spotycraiiii-jueves\lista.c
+	"Lista.h"
+
+1574345916 source:c:\users\grande\desktop\spotycraiiii-jueves\main.c
+	"menu.h"
+
+1574345916 c:\users\grande\desktop\spotycraiiii-jueves\menu.h
+	"ADL.h"
+
+1574524001 source:c:\users\grande\desktop\spotycraiiii-jueves\menu.c
+	"menu.h"
+
+1574612806 source:c:\users\joaquin\downloads\spotycraiiii-sabado\adl.c
+	"ADL.h"
+
+1574617174 c:\users\joaquin\downloads\spotycraiiii-sabado\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574610124 c:\users\joaquin\downloads\spotycraiiii-sabado\archivo.h
+	<stdio.h>
+
+1574618303 c:\users\joaquin\downloads\spotycraiiii-sabado\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574618301 c:\users\joaquin\downloads\spotycraiiii-sabado\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574618303 source:c:\users\joaquin\downloads\spotycraiiii-sabado\arbol.c
+	"arbol.h"
+
+1574618654 source:c:\users\joaquin\downloads\spotycraiiii-sabado\lista.c
+	"Lista.h"
+
+1574508968 source:c:\users\joaquin\downloads\spotycraiiii-sabado\main.c
+	"menu.h"
+
+1574508970 c:\users\joaquin\downloads\spotycraiiii-sabado\menu.h
+	"ADL.h"
+
+1574619088 source:c:\users\joaquin\downloads\spotycraiiii-sabado\menu.c
+	"menu.h"
+
+1574610124 source:c:\users\joaquin\downloads\spotycraiiii-sabado\archivo.c
+	"archivo.h"
+
+1574599484 source:c:\users\grande\desktop\spotycraiiii-domingo\adl.c
+	"ADL.h"
+
+1574599486 c:\users\grande\desktop\spotycraiiii-domingo\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574599486 c:\users\grande\desktop\spotycraiiii-domingo\archivo.h
+	<stdio.h>
+
+1574706130 c:\users\grande\desktop\spotycraiiii-domingo\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574599486 c:\users\grande\desktop\spotycraiiii-domingo\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574702434 source:c:\users\grande\desktop\spotycraiiii-domingo\arbol.c
+	"arbol.h"
+
+1574599486 source:c:\users\grande\desktop\spotycraiiii-domingo\archivo.c
+	"archivo.h"
+
+1574599486 source:c:\users\grande\desktop\spotycraiiii-domingo\lista.c
+	"Lista.h"
+
+1574599488 source:c:\users\grande\desktop\spotycraiiii-domingo\main.c
+	"menu.h"
+
+1574599488 c:\users\grande\desktop\spotycraiiii-domingo\menu.h
+	"ADL.h"
+
+1574706130 source:c:\users\grande\desktop\spotycraiiii-domingo\menu.c
+	"menu.h"
+
+1574599484 source:d:\francisco\spotycraiiii-domingo\adl.c
+	"ADL.h"
+
+1574599486 d:\francisco\spotycraiiii-domingo\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574599486 d:\francisco\spotycraiiii-domingo\archivo.h
+	<stdio.h>
+
+1574707496 d:\francisco\spotycraiiii-domingo\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574599486 d:\francisco\spotycraiiii-domingo\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574709206 source:d:\francisco\spotycraiiii-domingo\arbol.c
+	"arbol.h"
+
+1574599486 source:d:\francisco\spotycraiiii-domingo\archivo.c
+	"archivo.h"
+
+1574712505 source:d:\francisco\spotycraiiii-domingo\lista.c
+	"Lista.h"
+
+1574599488 source:d:\francisco\spotycraiiii-domingo\main.c
+	"menu.h"
+
+1574599488 d:\francisco\spotycraiiii-domingo\menu.h
+	"ADL.h"
+
+1574713346 source:d:\francisco\spotycraiiii-domingo\menu.c
+	"menu.h"
+
+1574695460 source:c:\users\joaquin\downloads\spotycraiiii-lunes\adl.c
+	"ADL.h"
+
+1574695460 c:\users\joaquin\downloads\spotycraiiii-lunes\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574695462 c:\users\joaquin\downloads\spotycraiiii-lunes\archivo.h
+	<stdio.h>
+
+1574695460 c:\users\joaquin\downloads\spotycraiiii-lunes\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574695460 c:\users\joaquin\downloads\spotycraiiii-lunes\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574719185 source:c:\users\joaquin\downloads\spotycraiiii-lunes\arbol.c
+	"arbol.h"
+
+1574695462 source:c:\users\joaquin\downloads\spotycraiiii-lunes\archivo.c
+	"archivo.h"
+
+1574695460 source:c:\users\joaquin\downloads\spotycraiiii-lunes\lista.c
+	"Lista.h"
+
+1574695464 source:c:\users\joaquin\downloads\spotycraiiii-lunes\main.c
+	"menu.h"
+
+1574695464 c:\users\joaquin\downloads\spotycraiiii-lunes\menu.h
+	"ADL.h"
+
+1574718830 source:c:\users\joaquin\downloads\spotycraiiii-lunes\menu.c
+	"menu.h"
+
+1574785352 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\adl.c
+	"ADL.h"
+
+1574785298 c:\users\grande\desktop\tp final\spotycraiiii-lunes\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574785352 c:\users\grande\desktop\tp final\spotycraiiii-lunes\archivo.h
+	<stdio.h>
+
+1574782695 c:\users\grande\desktop\tp final\spotycraiiii-lunes\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574788089 c:\users\grande\desktop\tp final\spotycraiiii-lunes\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574782706 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\arbol.c
+	"arbol.h"
+
+1574785708 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\archivo.c
+	"archivo.h"
+
+1574794106 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\lista.c
+	"Lista.h"
+
+1574699620 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\main.c
+	"menu.h"
+
+1574699594 c:\users\grande\desktop\tp final\spotycraiiii-lunes\menu.h
+	"ADL.h"
+
+1574791849 source:c:\users\grande\desktop\tp final\spotycraiiii-lunes\menu.c
+	"menu.h"
+
+1574814198 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\adl.c
+	"ADL.h"
+
+1574785298 c:\users\grande\desktop\tp final\spotycraiiii- martes\adl.h
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"archivo.h"
+	"arbol.h"
+	"Lista.h"
+	"time.h"
+
+1574785352 c:\users\grande\desktop\tp final\spotycraiiii- martes\archivo.h
+	<stdio.h>
+
+1574782695 c:\users\grande\desktop\tp final\spotycraiiii- martes\arbol.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+
+1574800865 c:\users\grande\desktop\tp final\spotycraiiii- martes\lista.h
+	<stdlib.h>
+	<string.h>
+	"archivo.h"
+	"arbol.h"
+
+1574782706 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\arbol.c
+	"arbol.h"
+
+1574785708 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\archivo.c
+	"archivo.h"
+
+1574699620 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\main.c
+	"menu.h"
+
+1574699594 c:\users\grande\desktop\tp final\spotycraiiii- martes\menu.h
+	"ADL.h"
+
+1574800865 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\lista.c
+	"Lista.h"
+
+1574800865 source:c:\users\grande\desktop\tp final\spotycraiiii- martes\menu.c
+	"menu.h"
+
